@@ -1095,7 +1095,7 @@ section.contact-us .contact-info {
 }
 
 section.contact-us .contact-info .icon i {
-  float: left;
+  /* float: left; */
   margin-right: 15px;
   width: 50px;
   height: 50px;
@@ -1168,7 +1168,7 @@ section.contact-us #contact textarea {
 }
 
 section.contact-us #contact button {
-  float: right;
+  /* float: right; */
   font-size: 13px;
   color: #fff;
   background: rgb(219,138,222);
